@@ -1,6 +1,6 @@
 # Salut, moi c'est Clément 👋
 
-Développeur web. Mon travail parle tout seul ici : [cv.clementviellard.com](https://cv.clementviellard.com).
+Développeur web. Mon travail parle tout seul ici : [clementviellard.com](https://clementviellard.com).
 
 ## Stack
 
@@ -11,5 +11,5 @@ Développeur web. Mon travail parle tout seul ici : [cv.clementviellard.com](htt
 
 ## Me trouver
 
-- Portfolio : <https://cv.clementviellard.com>
+- Portfolio : <https://clementviellard.com>
 - GitHub : [@CLVwp](https://github.com/CLVwp)
