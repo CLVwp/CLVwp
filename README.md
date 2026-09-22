@@ -1,6 +1,6 @@
 # Salut, moi c'est Clément 👋
 
-Développeur web. Mon travail parle tout seul ici : [clementviellard.com](https://clementviellard.com).
+Ingénieur en Système Embarqué. Mon travail parle tout seul ici : [clementviellard.com](https://clementviellard.com).
 
 ## Stack
 
